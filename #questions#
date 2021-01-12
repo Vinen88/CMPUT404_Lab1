@@ -1,0 +1,9 @@
+1. https://github.com/Vinen88/CMPUT404_Lab1
+2. 2.18.4
+3. 2.25.1
+4. one was installed via pip and the other was installed through apt. I assume apt has an older version? or virtualenv could just require a different version.
+5. 301 moved permantly, need to visit http://www.google.com to get 200 status code
+6. curl -iL redirects to the correct url that is given. curl -i returns a 301 status without info curl -iL http://google.com/teapot will run a second time and return with a code of 418?
+7. it changed the request method from GET to POST as well as the remote port. It could be useful for checking if the server is recieving requests of some sort? I'm not sure.
+
+8. 

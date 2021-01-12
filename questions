@@ -1,0 +1,6 @@
+1. https://github.com/Vinen88/CMPUT404_Lab1
+2. 2.18.4
+3. 2.25.1
+4. one was installed via pip and the other was installed through apt. I assume apt has an older version? or virtualenv could just require a different version.
+5. 200, which happens when the request succeeds. a valid url must be viited to get a 200 status code?
+6. 
